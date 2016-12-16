@@ -1,0 +1,8 @@
+{
+  "bookname": "example",
+  "outputfile": "SUMMARY.md",
+  "catalog": "all",
+  "ignores": [],
+  "unchanged": [],
+  "sortedBy": "-"
+}
